@@ -1,0 +1,17 @@
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 개인정보 파일
+*.key
+*.pem
+config.json
+
+# 큰 미디어 파일 (필요시)
+*.mp4
+*.mov
+*.zip
+
+# 임시 파일
+*.tmp
+*.log
